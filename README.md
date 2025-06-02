@@ -1,12 +1,42 @@
-# React + Vite
+# 📝 Task Manager App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive **React-based Task Manager** to help you organize your daily tasks efficiently. Features include adding, editing, deleting tasks, marking tasks as complete, filtering tasks, and real-time toast notifications.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Add new tasks with descriptions
+- ✏️ Edit existing tasks
+- ❌ Delete tasks
+- 🔘 Mark tasks as completed/incomplete
+- 🔍 Filter tasks by All / Completed / Incomplete
+- 🧾 Beautiful UI built with Tailwind CSS
+- 🔔 Toast notifications for all actions
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📸 Demo
+
+![Task Manager Screenshot](screenshot.png)
+
+> You can replace this with an actual screenshot or a deployed link.
+
+---
+
+## 🔧 Tech Stack
+
+- **React.js**
+- **Tailwind CSS**
+- **React Icons**
+- **React Toastify**
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/Sahil-Bhardwaj29/TaskManager.git
+cd TaskManager
+npm install
+npm start
